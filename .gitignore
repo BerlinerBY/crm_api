@@ -1,0 +1,6 @@
+
+env
+project/accounts/__pycache__
+project/crm/__pycache__
+project/project/__pycache__
+.env.dev
